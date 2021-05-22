@@ -2,10 +2,9 @@
 	margin: 20;
 	padding: 50;
 	font-family: Calibri;
+	background: linear-gradient(to bottom, #cc66ff 0%, #6699ff 100%);
 }
-div {
-    background: linear-gradient(to bottom, #cc66ff 0%, #6699ff 100%);
-}
+   
 .title h1
 {
 	color: rgb(0, 262, 120);
